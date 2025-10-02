@@ -1,1 +1,1 @@
-# Jumping-on-the-Clouds-Revisited-algo
+# Jumping-on-the-Clouds-Revisited-algo This code solves the Jumping on the Clouds: Revisited problem, where a player jumps around a circular cloud array in steps of `k`, losing 1 energy per jump and 2 extra energy if landing on a thundercloud (`1`). The `jumpingOnClouds` function calculates the remaining energy after completing a full loop, stopping when the player returns to the starting cloud.
